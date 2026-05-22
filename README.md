@@ -1,43 +1,27 @@
-# 🧠 Learning Log – My Programming Journey
+📈 My Learning Approach
 
-Hello 👋  
-This repository is a personal space where I document everything I learn in programming and computer science.
+I learn continuously on a daily basis, focusing on:
 
----
+Deep understanding of the fundamentals
+Always practicing through hands-on work
+Building real skills instead of just memorizing
+Progressing step by step without rushing
+🚀 Technologies I Am Learning
 
-## 🎯 Purpose of This Project
+This repository may include:
 
-- Record all new concepts I learn
-- Build a personal reference for future use
-- Track my progress in programming
-- Apply knowledge through practical examples and exercises
+C / C++
+Linux & Terminal
+Data Structures & Algorithms
+Cybersecurity basics
+Networking fundamentals
+Problem Solving
+🧩 Note
 
----
+This repository is not a final project, but rather a continuous learning journey.
 
-## 📚 What You Will Find Here
+Every day I learn something new and add it here.
 
-This repository contains:
+📬 Final Goal
 
-- 🧩 Basic and advanced programming concepts  
-- 💻 Code experiments in C / C++ / other languages  
-- 🧠 Simple explanations and notes  
-- 🛠️ Small practice projects  
-- 📖 Summaries from different learning sources  
-- 🧪 Solved exercises and personal experiments  
-
----
-
-## 🛣️ Learning Path
-
-I am currently following this roadmap:
-
-1. Programming fundamentals (C / C++)
-2. Data Structures & Algorithms
-3. Operating Systems
-4. Networking
-5. Cybersecurity 🔐
-6. Advanced practical projects
-
----
-
-## 🗂️ Folder Structure
+To reach a strong level in programming and computer science, and to build a solid foundation in the field of cybersecurity.
