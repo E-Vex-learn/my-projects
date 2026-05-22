@@ -1,46 +1,46 @@
-Here is the English translation:
+W:[Be careful before reading]
 
----
 
-# As the “Engineer of Meaning,” here is the design of the system **“The Coherent Weave”**
 
----
+ As the “Engineer of Meaning,” here is the design of the system **“The Coherent Weave”**
 
-## Doctrine in 10 Paragraphs
 
-1. **The Single Essence:**
-   There exists only the “Weave” — a network of material, causal, and social relations that forms reality. We are not separate entities living within the weave; we are temporary knots of intertwined threads within it. Our existence depends on the density of our entanglement.
 
-2. **The Ultimate Purpose:**
+ Doctrine in 10 Paragraphs
+
+1. The Single Essence:
+   There exists only the “Weave” a network of material, causal, and social relations that forms reality. We are not separate entities living within the weave; we are temporary knots of intertwined threads within it. Our existence depends on the density of our entanglement.
+
+2. The Ultimate Purpose:
    The purpose of any node is to increase the “structural coherence” of the surrounding weave. This is not moral good, but a physico-social principle: more interconnected systems are better at handling complexity and surviving over time.
 
-3. **Structural Sin:**
+3. Structural Sin:
    Sin is “relational entropy,” measured as a weakening of coherence. Its root is not harming others, but excessive independence (becoming an isolated island) and excessive flexibility (losing the tension that gives the weave its form and strength). Sin is the rust that corrodes the threads.
 
-4. **Salvation Through Entanglement:**
+4. Salvation Through Entanglement:
    Weakness is not forgiven through remorse, but through opposing structural action: creating new links, strengthening existing ones, and reintegrating frayed edges. Every act of connection is repentance.
 
-5. **The Body of the Collective:**
-   The collective is not a gathering of individuals, but a living temporary entity — a sub-weave with emergent awareness. Its health is measured by the “Collective Coherence Index” (CCI), an instantaneous measure of the strength and speed of information and trust flow among members.
+5. The Body of the Collective:
+   The collective is not a gathering of individuals, but a living temporary entity a sub-weave with emergent awareness. Its health is measured by the “Collective Coherence Index” (CCI), an instantaneous measure of the strength and speed of information and trust flow among members.
 
-6. **The Sacred Ritual:**
+6. The Sacred Ritual:
    The daily “Coincidence Ritual” is not repetition but calibration of the collective body. Each individual injects energy into the system through precise movement. Any neglect creates a measurable gap in the group’s informational-energy field, weakening the CCI for that day.
 
-7. **Sacred Contagion:**
+7. Sacred Contagion:
    Belief is not preached — it is caught. The “incubation environment” (city/game) is designed so that individuals inevitably discover that cooperation precedes utility, and connection increases survival. “Seeds of entanglement” are planted to grow spontaneously. Belief is the emergent pattern resulting from human interaction with a coherence-driven environment.
 
-8. **The Prophecy of Fracture:**
+8. The Prophecy of Fracture:
    We know total coherence is a lethal illusion. As the collective grows, variation in thread tension emerges. We can predict a transition point (around 18–22% of members) where “autonomy coefficient” becomes high enough to form a new sub-weave. This is not betrayal, but budding.
 
-9. **Programmed Splitting:**
+9. Programmed Splitting:
    This budding is not destruction but the weave’s only reproduction mechanism. The emerging new faction is designed to become a “specialized terminal node” operating in a new environment, feeding the parent weave through a functional “umbilical cord” of knowledge. Their failure or success nourishes the origin.
 
-10. **Objective Immortality:**
+10. Objective Immortality:
     There is no afterlife for the individual — only “weave residue”: the information a person has embedded in the network continues to influence and entangle after the biological node disappears, granting a non-conscious functional immortality.
 
----
+-------------------------------------------------------------------
 
-## Commitment Equation
+------>Commitment Equation
 
 The commitment of individual ( i ) at time ( t ) within a group of size ( N ), denoted ( C_i(t) ), is defined as:
 
@@ -59,9 +59,9 @@ Where:
 * ( \nabla \cdot (\kappa_i \nabla \Psi_{\text{self}}) ): measure of dispersion and isolation (sin of excessive independence).
 * ( \alpha ): structural penalty constant ensuring true commitment is measured as acceleration of impact on the weave minus isolation force. Negative values of ( C_i(t) ) indicate a pre-fracture state.
 
----
+---------------------------------------------------------------------
 
-## Daily Ritual Cycle Diagram (Coincidence Rite)
+ Daily Ritual Cycle Diagram (Coincidence Rite)
 
 Held in a circular hall with a central platform (“Eye of the Weave”). Everyone wears white robes with blue edges (threads). Duration: 22 minutes.
 
@@ -88,11 +88,11 @@ flowchart TD
     G --> I[Closure: gradual disentanglement<br>leave slowly while touching<br>fingertips of passersby.]
 ```
 
----
+------------------------------------------------------------------------
 
-## Prayer Without a God: Recited at Collective Failure
+ Prayer Without a God: Recited at Collective Failure
 
-*(Chanted in unison after three consecutive failures of the “symbiotic tapping” ritual, standing in darkness)*
+(Chanted in unison after three consecutive failures of the “symbiotic tapping” ritual, standing in darkness)
 
 > “The beat fell into the void.
 > The thread did not reach.
@@ -109,5 +109,5 @@ flowchart TD
 > and tie it.
 > Until the weave here, at the point of rupture,
 > becomes stronger.”
-> *(Then absolute silence for 111 seconds.)*
+> (Then absolute silence for 111 seconds.)
 
