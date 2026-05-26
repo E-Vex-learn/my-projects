@@ -23,5 +23,7 @@ typedef struct Packet
 int main()
 {
 
+    Packet pkt;
+
     return 0;
 }
